@@ -1,0 +1,4 @@
+<?
+define("PBRF_VERSION","1.0.1");
+define("PBRF_VERSION_DATE","2013-05-13 17:00:00"); // YYYY-MM-DD HH:MI:SS
+?>
